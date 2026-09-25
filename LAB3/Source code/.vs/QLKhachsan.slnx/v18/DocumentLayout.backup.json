@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qlkhachsan\\qlkhachsan\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|solutionrelative:qlkhachsan\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qlkhachsan\\qlkhachsan\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|solutionrelative:qlkhachsan\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qlkhachsan\\qlkhachsan\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|solutionrelative:qlkhachsan\\frmthongke.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qlkhachsan\\qlkhachsan\\frmthongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|solutionrelative:qlkhachsan\\frmthongke.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qlkhachsan\\qlkhachsan\\thongkeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|solutionrelative:qlkhachsan\\thongkeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qlkhachsan\\qlkhachsan\\frmtraphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|solutionrelative:qlkhachsan\\frmtraphong.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qlkhachsan\\qlkhachsan\\frmtraphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|solutionrelative:qlkhachsan\\frmtraphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qlkhachsan\\qlkhachsan\\frmtraphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|solutionrelative:qlkhachsan\\frmtraphong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qlkhachsan\\qlkhachsan\\traphongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|solutionrelative:qlkhachsan\\traphongservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qlkhachsan\\qlkhachsan\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B6F24DD2-AA4D-4720-9B61-49C33E5454AF}|QLKhachsan\\QLKhachsan.csproj|solutionrelative:qlkhachsan\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmMain.cs",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\FrmMain.cs",
+              "RelativeDocumentMoniker": "QLKhachsan\\FrmMain.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\FrmMain.cs",
+              "RelativeToolTip": "QLKhachsan\\FrmMain.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAYwEIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T07:20:49.759Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\Database.cs",
+              "RelativeDocumentMoniker": "QLKhachsan\\Database.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\Database.cs",
+              "RelativeToolTip": "QLKhachsan\\Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T07:17:18.696Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmThongKe.cs",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\FrmThongKe.cs",
+              "RelativeDocumentMoniker": "QLKhachsan\\FrmThongKe.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\FrmThongKe.cs",
+              "RelativeToolTip": "QLKhachsan\\FrmThongKe.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAowEEAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T09:05:28.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmThongKe.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\FrmThongKe.Designer.cs",
+              "RelativeDocumentMoniker": "QLKhachsan\\FrmThongKe.Designer.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\FrmThongKe.Designer.cs",
+              "RelativeToolTip": "QLKhachsan\\FrmThongKe.Designer.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAowFsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T09:05:16.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmThongKe.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\FrmThongKe.cs",
+              "RelativeDocumentMoniker": "QLKhachsan\\FrmThongKe.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\FrmThongKe.cs [Design]",
+              "RelativeToolTip": "QLKhachsan\\FrmThongKe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T09:04:52.835Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ThongKeService.cs",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\ThongKeService.cs",
+              "RelativeDocumentMoniker": "QLKhachsan\\ThongKeService.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\ThongKeService.cs",
+              "RelativeToolTip": "QLKhachsan\\ThongKeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T09:04:02.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmTraPhong.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\FrmTraPhong.cs",
+              "RelativeDocumentMoniker": "QLKhachsan\\FrmTraPhong.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\FrmTraPhong.cs [Design]",
+              "RelativeToolTip": "QLKhachsan\\FrmTraPhong.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T08:57:33.725Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmTraPhong.cs",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\FrmTraPhong.cs",
+              "RelativeDocumentMoniker": "QLKhachsan\\FrmTraPhong.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\FrmTraPhong.cs",
+              "RelativeToolTip": "QLKhachsan\\FrmTraPhong.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA2wHoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T08:56:35.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmTraPhong.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\FrmTraPhong.Designer.cs",
+              "RelativeDocumentMoniker": "QLKhachsan\\FrmTraPhong.Designer.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\FrmTraPhong.Designer.cs",
+              "RelativeToolTip": "QLKhachsan\\FrmTraPhong.Designer.cs",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAIwHsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T08:56:17.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TraPhongService.cs",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\TraPhongService.cs",
+              "RelativeDocumentMoniker": "QLKhachsan\\TraPhongService.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLKhachsan\\QLKhachsan\\TraPhongService.cs",
+              "RelativeToolTip": "QLKhachsan\\TraPhongService.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAAwMMAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-25T08:55:34.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
