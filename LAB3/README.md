@@ -79,8 +79,10 @@ Mở file `Database.cs` trong project C# và cập nhật chuỗi kết nối ph
 
 ```csharp
 private static string connectionString = @"Data Source=YOUR_SERVER_NAME;Initial Catalog=QuanLyKhachSan;Integrated Security=True;TrustServerCertificate=True;";
+```
 
 ### 4. Biên dịch và thực thi
 1. Mở solution QLKhachsan.sln bằng Visual Studio.
 2. Chọn Rebuild Solution để khôi phục các gói dependency.
 3. Nhấn F5 hoặc chọn Start để chạy ứng dụng.
+
