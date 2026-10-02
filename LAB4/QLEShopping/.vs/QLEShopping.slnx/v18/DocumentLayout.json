@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D25610A-03DD-EEF7-9066-B47151F8B96E}|QLEShopping\\QLEShopping.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qleshopping\\qleshopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D25610A-03DD-EEF7-9066-B47151F8B96E}|QLEShopping\\QLEShopping.csproj|solutionrelative:qleshopping\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D25610A-03DD-EEF7-9066-B47151F8B96E}|QLEShopping\\QLEShopping.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qleshopping\\qleshopping\\frmgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6D25610A-03DD-EEF7-9066-B47151F8B96E}|QLEShopping\\QLEShopping.csproj|solutionrelative:qleshopping\\frmgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D25610A-03DD-EEF7-9066-B47151F8B96E}|QLEShopping\\QLEShopping.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qleshopping\\qleshopping\\frmgiohang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D25610A-03DD-EEF7-9066-B47151F8B96E}|QLEShopping\\QLEShopping.csproj|solutionrelative:qleshopping\\frmgiohang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D25610A-03DD-EEF7-9066-B47151F8B96E}|QLEShopping\\QLEShopping.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qleshopping\\qleshopping\\frmgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D25610A-03DD-EEF7-9066-B47151F8B96E}|QLEShopping\\QLEShopping.csproj|solutionrelative:qleshopping\\frmgiohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D25610A-03DD-EEF7-9066-B47151F8B96E}|QLEShopping\\QLEShopping.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qleshopping\\qleshopping\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D25610A-03DD-EEF7-9066-B47151F8B96E}|QLEShopping\\QLEShopping.csproj|solutionrelative:qleshopping\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D25610A-03DD-EEF7-9066-B47151F8B96E}|QLEShopping\\QLEShopping.csproj|c:\\users\\quang l\u00FD\\source\\repos\\qleshopping\\qleshopping\\qleshopping.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6D25610A-03DD-EEF7-9066-B47151F8B96E}|QLEShopping\\QLEShopping.csproj|solutionrelative:qleshopping\\qleshopping.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\quang l\u00FD\\source\\repos\\qleshopping\\qleshopping\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:qleshopping\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\QLEShopping\\Program.cs",
+              "RelativeDocumentMoniker": "QLEShopping\\Program.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\QLEShopping\\Program.cs",
+              "RelativeToolTip": "QLEShopping\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T14:11:16.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmGiohang.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\QLEShopping\\FrmGiohang.Designer.cs",
+              "RelativeDocumentMoniker": "QLEShopping\\FrmGiohang.Designer.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\QLEShopping\\FrmGiohang.Designer.cs",
+              "RelativeToolTip": "QLEShopping\\FrmGiohang.Designer.cs",
+              "ViewState": "AgIAAMwAAAAAAAAAAADwv+oAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T13:26:25.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmGiohang.cs",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\QLEShopping\\FrmGiohang.cs",
+              "RelativeDocumentMoniker": "QLEShopping\\FrmGiohang.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\QLEShopping\\FrmGiohang.cs",
+              "RelativeToolTip": "QLEShopping\\FrmGiohang.cs",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAqwIMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T13:22:20.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmGiohang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\QLEShopping\\FrmGiohang.cs",
+              "RelativeDocumentMoniker": "QLEShopping\\FrmGiohang.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\QLEShopping\\FrmGiohang.cs [Design]",
+              "RelativeToolTip": "QLEShopping\\FrmGiohang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T13:22:09.509Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "QLEShopping",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\QLEShopping\\QLEShopping.csproj",
+              "RelativeDocumentMoniker": "QLEShopping\\QLEShopping.csproj",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\QLEShopping\\QLEShopping.csproj",
+              "RelativeToolTip": "QLEShopping\\QLEShopping.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-10-02T13:19:12.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\QLEShopping\\Database.cs",
+              "RelativeDocumentMoniker": "QLEShopping\\Database.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\QLEShopping\\Database.cs",
+              "RelativeToolTip": "QLEShopping\\Database.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAIAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T13:09:10.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\QLEShopping\\Form1.cs",
+              "RelativeDocumentMoniker": "QLEShopping\\Form1.cs",
+              "ToolTip": "C:\\Users\\Quang L\u00FD\\source\\repos\\QLEShopping\\QLEShopping\\Form1.cs [Design]",
+              "RelativeToolTip": "QLEShopping\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-02T12:49:32.045Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
