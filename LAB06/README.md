@@ -4,7 +4,7 @@ Dự án **Quản Lý Hồ Sơ Bệnh Án** là hệ thống phần mềm quản
 
 ---
 
-## 1. Tóm Tắt Nội Dung Tài Liệu Nghiệp Vụ (`Bai_5_Quan_ly_ho_so_benh_an.docx`)
+## 1. Tóm Tắt Nội Dung Tài Liệu Nghiệp Vụ (`LAB05_BùiNgôQuangLý_1250080112_CNPM2_PPPTPMHDTn.docx`)
 
 Tài liệu nghiệp vụ định nghĩa đầy đủ quy trình vận hành và các yêu cầu kỹ thuật của hệ thống:
 
